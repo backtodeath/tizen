@@ -20,7 +20,7 @@
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>mGPYZ5mQUWaXV/DKuCSQoN5lKsrOKRYcvsYFA4CjZDI=</DigestValue>
+<DigestValue>TcrkiHOTuzTw/C+iDVedgu7ohh9h15RAC+ZArEvE8gI=</DigestValue>
 </Reference>
 <Reference URI="css%2Fbootstrap-select.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -68,7 +68,11 @@
 </Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>GTGeSAVlL7/4XOTTffZ6udmSD0r0ZwcfXczqq47ZN2Q=</DigestValue>
+<DigestValue>+kCxIgnFpIyuOI1o+Q0j54MZ+9iW1EJF0wKdEknTRLw=</DigestValue>
+</Reference>
+<Reference URI="dummyApp.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4j2xrVh+MYAuOi7Gz6lkKWZSnoUxheFas+YYQyWMdk0=</DigestValue>
 </Reference>
 <Reference URI="fonts%2Fglyphicons-halflings-regular.eot">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -90,17 +94,13 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw=</DigestValue>
 </Reference>
-<Reference URI="iconCurrency.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>33FppsnpstW+J9rgeofCrN6ZUQckZ/6climGiYAUhbI=</DigestValue>
-</Reference>
 <Reference URI="images%2Ftizen_32.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>eDr9ZPFlGlapLDnI1BiALwqovNdBvx3Aspc/lWOH3WI=</DigestValue>
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>fqSZPtoi7GbpaxNQgdJQZycvmBPoma3L/pJWPlEIJlU=</DigestValue>
+<DigestValue>GnFlnBANA1U5UKG7kK+qh6ddFM768KKPHYPUE+3qTRE=</DigestValue>
 </Reference>
 <Reference URI="js%2Fangular-animate.min.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -112,7 +112,7 @@
 </Reference>
 <Reference URI="js%2Fapp.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>5GigknzETfR3sZxbBfAaWltN7kABCpxyEC/0zPRtZ1Q=</DigestValue>
+<DigestValue>WkdpmzZ6m2Iis3sW/YuaWEf+tRwrIivYllqM/kchQ2I=</DigestValue>
 </Reference>
 <Reference URI="js%2FngStorage.min.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -131,9 +131,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-OwzgsW6Z8XF36LBqm1zxgZjjyPzjc1LVg7UGj3+NHjFoR6ScRWS0CVkzp3xvOq155cEYXUnDk9l+
-iaa79H3sONs/156gOvw1OOYPRY7kL9PLccDmBAx+983tkDh2r5CklxAJ1UU5d3qF3Yp7xaozIlix
-BdhQvoVwpaT8CplvwFg=
+BqGLLs03nHmZGkUHPOuAC5KCF5RfFwyCX8wug+WQjy614/w2S5usyWpHmei/25Kty8Ky8O4k4Ix2
+8nHFWHj83ZqAJ37azYUH7jqC8FBYEDZgavCp0mepvldzabGNdKD7pLrzTwfDVZTb5ved1indMxnB
+poRiDyfwzOfdRaza9uw=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
