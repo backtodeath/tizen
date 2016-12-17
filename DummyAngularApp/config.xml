@@ -5,7 +5,7 @@
     <author email="lirolaluis@gmail.com">Luis Lirola</author>
     <content src="index.html"/>
     <feature name="http://tizen.org/feature/screen.size.all"/>
-    <icon src="iconCurrency.png" height="117" width="117"/>
+    <icon src="dummyApp.png" height="117" width="117"/>
     <name>Dummy Angular App</name>
     <tizen:privilege name="http://tizen.org/privilege/internet"/>
     <tizen:profile name="mobile"/>
