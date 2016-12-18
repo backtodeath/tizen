@@ -1,0 +1,10 @@
+.justified {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+.justified > * {
+  display: table-cell;
+  width: 1%;
+  float: none !important;
+}
