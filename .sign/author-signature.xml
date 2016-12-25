@@ -6,10 +6,6 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>M9PoYv3UuQtcsdBG58hwv9fuC3rY9k6aeorYUlPFBtw=</DigestValue>
 </Reference>
-<Reference URI="angularJS_license.md">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>4tEf8UZeNOPSC45s2sofEfeQ09C/poXd6mPek5zMngE=</DigestValue>
-</Reference>
 <Reference URI="carousel.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>/RQq7Rp75rwca8ufIRV+Myz60b0ZDwisdj1eSUO74As=</DigestValue>
@@ -17,10 +13,6 @@
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>TcrkiHOTuzTw/C+iDVedgu7ohh9h15RAC+ZArEvE8gI=</DigestValue>
-</Reference>
-<Reference URI="css%2Fmobile-angular-ui-base.css">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>BbYptDbiTPHIE/EfGucP3/o4cQDpwQgF8lxrZRNNQOo=</DigestValue>
 </Reference>
 <Reference URI="css%2Fmobile-angular-ui-base.min.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -179,9 +171,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-ZOIuc5OXudoVCj4RkrFl6shuq2SkHRMUxz8LHXNoqSvcVav7HVSVkXWA+AFVhwFfOOGmyJafohp2
-CuZcAW/Owh7+pncsJycnrul4yR0ZcVLHruCSGQ1JR1Pyvqr8RFaikqzyIxaH6N+42f68gpEBJijm
-3D6jsZVmiLV5g60MKEw=
+aiQWpRX7s53+aYw8aS4+cGVresnGmE/WsXM2P8skISLZkYH0qllxNzrkV9AGyzkXcKPWBQdPlrLE
+YtcId1ThqmGLKxEJwxc9I9x1d7nhYV4X3/J+2MA+mAFhQgwpERMM/tvB2Yp7eLccYtc47zF3VQvS
+iPfuBqulocURPD/CnrI=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
